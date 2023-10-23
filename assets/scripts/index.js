@@ -284,7 +284,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     modelDataFile.click();
   });
 
-  // falta carregar modelo
   modelDataFile.addEventListener('change', (e) => {
     modelFeedbackIndicatorArea.classList.remove('hide');
     try {
