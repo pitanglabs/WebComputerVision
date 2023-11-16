@@ -9,7 +9,7 @@
 
 This repository highlights a project that employs the ML5.js library for image classification using MobileNet and KNN. The objective is to classify gestures that will control a snake game effectively.
 
-- [Blog post]()
+- [Blog post](https://www.pitang.com/b/intervalo-tecnico-visao-computacional-na-web)
 - [Youtube Video](https://www.youtube.com/watch?v=GMkfe-51eR8&ab_channel=Pitang)
 
 ### Demo
