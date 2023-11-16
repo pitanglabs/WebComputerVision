@@ -10,7 +10,7 @@
 This repository highlights a project that employs the ML5.js library for image classification using MobileNet and KNN. The objective is to classify gestures that will control a snake game effectively.
 
 - [Blog post]()
-- [Youtube Video]()
+- [Youtube Video](https://www.youtube.com/watch?v=GMkfe-51eR8&ab_channel=Pitang)
 
 ### Demo
 ![game demo](https://github.com/AnneLivia/HandGestureWebML/assets/31932673/7a78610f-eae2-4a76-aff7-cb8439f2f408)
